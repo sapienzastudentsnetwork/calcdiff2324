@@ -1,4 +1,15 @@
-# Calcolo Integrale (A.A. 2023-2024)
-Questo repository contiene una raccolta di schede di esercizi con soluzioni (di preparazione ad Esoneri/Esami) distribuite dal prof. Luigi Orsina Pedraza nell'ambito dell'insegnamento di "Calcolo Differenziale" del corso di laurea in Informatica (Triennale) presso Sapienza Università di Roma.
+# <p align="center"> Calcolo Differenziale (A.A. 2023-2024) </p>
 
-Per contribuire al progetto, puoi inviare le tue schede a: [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda di calcolo differenziale"
+Raccolta di schede di esercizi (con soluzioni) di preparazione agli Esoneri distribuite dalla prof. Adriana Garroni ed il prof. Luigi Orsina per il corso di "Calcolo Differenziale" del percorso di laurea triennale in Informatica presso la Sapienza Università di Roma A.A 2023/2024
+
+Potete inviare le vostra scheda all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda di calcolo differenziale"
+
+## <p align="center"> Set di schede n°1 (Insiemi & Intervalli) </p>
+
+<div align="center">
+
+| [1](./Set%20di%20schede%20numero%201/00109.pdf) | 2 | 3 | 4 | 5 |
+|:---:| :---: | :---: | :---: | :---: |
+| 6 | 7 | 8 | 9 | 10 |
+
+</div>
