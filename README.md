@@ -1,10 +1,10 @@
-# <p align="center"> Calcolo Differenziale (A.A. 2023-2024) </p>
+<h1 align="center"> Calcolo Differenziale (A.A. 2023-2024) </h1>
 
-Raccolta di schede di esercizi (con soluzioni) di preparazione agli Esoneri distribuite dalla prof. Adriana Garroni ed il prof. Luigi Orsina per il corso di "Calcolo Differenziale" del percorso di laurea triennale in Informatica presso la Sapienza Università di Roma A.A 2023/2024
+Raccolta di schede di esercizi (con soluzioni) di preparazione agli Esoneri distribuite dalla prof. Adriana Garroni ed il prof. Luigi Orsina per il corso di "Calcolo Differenziale" del percorso di laurea triennale in Informatica presso la Sapienza Università di Roma A.A 2023/2024.
 
-Potete inviare le vostra scheda all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda di calcolo differenziale"
+Potete inviare le vostra scheda all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda di calcolo differenziale".
 
-## <p align="center"> Set di schede n°1 (Insiemi & Intervalli) </p>
+<h2 align="center"> Set di schede n°1 (Insiemi & Intervalli) </h2>
 
 <div align="center">
 
