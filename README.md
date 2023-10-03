@@ -10,6 +10,6 @@ Potete inviare le vostra scheda all'indirizzo [valerio.fontana.1711@gmail.com](m
 
 | [1](./Set%20di%20schede%20numero%201/00038.pdf) | [2](./Set%20di%20schede%20numero%201/00064.pdf) | [3](./Set%20di%20schede%20numero%201/00106.pdf) | [4](./Set%20di%20schede%20numero%201/00109.pdf) | [5](./Set%20di%20schede%20numero%201/00149.pdf) |
 |:---:| :---: | :---: | :---: | :---: |
-| [6](./Set%20di%20schede%20numero%201/00280.pdf) | 7 | 8 | 9 | 10 |
+| [6](./Set%20di%20schede%20numero%201/00197.pdf) | [7](./Set%20di%20schede%20numero%201/00280.pdf) | 8 | 9 | 10 |
 
 </div>
