@@ -13,8 +13,8 @@ Potete inviare le vostre schede all'indirizzo [valerio.fontana.1711@gmail.com](m
 
 <h2> Set di schede numero 2 (Intervalli & Funzioni) </h2>
 
-| [1](./Set%20di%20schede%20numero%202/00005.pdf) | [2](./Set%20di%20schede%20numero%202/00128.pdf) |
-| :---: | :---: |
+| [1](./Set%20di%20schede%20numero%202/00005.pdf) | [2](./Set%20di%20schede%20numero%202/00128.pdf) | [3](./Set%20di%20schede%20numero%202/00280.pdf)
+| :---: | :---: | :---: |
 
 <h2> Set di schede numero 3 (Successioni & Limiti) </h2>
 
