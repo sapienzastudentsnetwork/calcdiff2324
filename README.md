@@ -2,7 +2,7 @@
 
 Raccolta di schede di esercizi (con soluzioni) di preparazione agli Esoneri distribuite dalla prof. Adriana Garroni ed il prof. Luigi Orsina per il corso di "Calcolo Differenziale" del percorso di laurea triennale in Informatica presso la Sapienza Università di Roma A.A 2023/2024.
 
-Potete inviare le vostre schede all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda/schede di calcolo differenziale".
+Per chi volesse contribuire può inviare le proprie schede all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda/schede di calcolo differenziale".
 
 <div align="center">
 
@@ -23,7 +23,7 @@ Potete inviare le vostre schede all'indirizzo [valerio.fontana.1711@gmail.com](m
 
 <h2> Set di schede numero 4 (approfondimento Limiti) </h2>
 
-| [1](./Set%20di%20schede%20numero%204/00133.pdf) |
-| :---: |
+| [1](./Set%20di%20schede%20numero%204/00133.pdf) | [2](./Set%20di%20schede%20numero%204/00298.pdf) |
+| :---: | :---: |
 
 </div>
