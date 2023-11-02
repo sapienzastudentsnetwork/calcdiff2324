@@ -18,8 +18,8 @@ Potete inviare le vostre schede all'indirizzo [valerio.fontana.1711@gmail.com](m
 
 <h2> Set di schede numero 3 (Successioni & Limiti) </h2>
 
-| [1](/Set%20di%20schede%20numero%203/00005.pdf) | [2](./Set%20di%20schede%20numero%203/00131.pdf) |
-| :---: | :---: |
+| [1](/Set%20di%20schede%20numero%203/00005.pdf) | [2](./Set%20di%20schede%20numero%203/00131.pdf) | [3](./Set%20di%20schede%20numero%203/00290.pdf)
+| :---: | :---: | :---: |
 
 <h2> Set di schede numero 4 (approfondimento Limiti) </h2>
 
