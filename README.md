@@ -26,4 +26,9 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [valeri
 | [1](./Set%20di%20schede%20numero%204/00133.pdf) | [2](./Set%20di%20schede%20numero%204/00298.pdf) |
 | :---: | :---: |
 
+<h2> Set schede di Pre-Esonero numero 1 </h2>
+
+| [1](./Set%20schede%20di%20Pre-Esonero%20numero%201/00098.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%201/00123.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%201/00138.pdf) | [4](./Set%20schede%20di%20Pre-Esonero%20numero%201/00182.pdf) | [5](./Set%20schede%20di%20Pre-Esonero%20numero%201/00234.pdf)
+| :---: | :---: | :---: | :---: | :---: |
+
 </div>
