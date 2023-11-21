@@ -2,7 +2,7 @@
 
 Raccolta di schede di esercizi (con soluzioni) di preparazione agli Esoneri distribuite dalla prof. Adriana Garroni ed il prof. Luigi Orsina per il corso di "Calcolo Differenziale" del percorso di laurea triennale in Informatica presso la Sapienza Università di Roma A.A 2023/2024.
 
-Per chi volesse contribuire può inviare le proprie schede all'indirizzo [valerio.fontana.1711@gmail.com](mailto:valerio.fontana.1711@gmail.com) inserendo l'oggetto "scheda/schede di calcolo differenziale".
+Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyLix17@protonmail.com](mailto:FeddyLix17@protonmail.com) inserendo l'oggetto "scheda/schede di calcolo differenziale".
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [valeri
 | [1](/Set%20di%20schede%20numero%203/00005.pdf) | [2](./Set%20di%20schede%20numero%203/00131.pdf) | [3](./Set%20di%20schede%20numero%203/00290.pdf)
 | :---: | :---: | :---: |
 
-<h2> Set di schede numero 4 (approfondimento Limiti) </h2>
+<h2> Set di schede numero 4 (Limiti Notevoli) </h2>
 
 | [1](./Set%20di%20schede%20numero%204/00133.pdf) | [2](./Set%20di%20schede%20numero%204/00298.pdf) |
 | :---: | :---: |
@@ -30,5 +30,10 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [valeri
 
 | [1](./Set%20schede%20di%20Pre-Esonero%20numero%201/00034.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%201/00052.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%201/00098.pdf) | [4](./Set%20schede%20di%20Pre-Esonero%20numero%201/00123.pdf) | [5](./Set%20schede%20di%20Pre-Esonero%20numero%201/00138.pdf) | [6](./Set%20schede%20di%20Pre-Esonero%20numero%201/00146.pdf) | [7](./Set%20schede%20di%20Pre-Esonero%20numero%201/00182.pdf) | [8](./Set%20schede%20di%20Pre-Esonero%20numero%201/00225.pdf) | [9](./Set%20schede%20di%20Pre-Esonero%20numero%201/00234.pdf)
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+<h2> Set di schede numero 5 (Limiti & Funzioni) </h2>
+
+| [1](./Set%20di%20schede%20numero%205/00138.pdf) |
+| :---: |
 
 </div>
