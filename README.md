@@ -8,17 +8,17 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 
 <h2> Set di schede numero 1 (Insiemi & Intervalli) </h2>
 
-| [1](./Set%20di%20schede%20numero%201/00003.pdf) | [2](./Set%20di%20schede%20numero%201/00038.pdf) | [3](./Set%20di%20schede%20numero%201/00046.pdf) | [4](./Set%20di%20schede%20numero%201/00064.pdf) | [5](./Set%20di%20schede%20numero%201/00106.pdf) | [6](./Set%20di%20schede%20numero%201/00109.pdf) | [7](./Set%20di%20schede%20numero%201/00149.pdf) |  [8](./Set%20di%20schede%20numero%201/00197.pdf) | [9](./Set%20di%20schede%20numero%201/00234.pdf) | [10](./Set%20di%20schede%20numero%201/00280.pdf)
+| [1](./Set%20di%20schede%20numero%201/00003.pdf) | [2](./Set%20di%20schede%20numero%201/00038.pdf) | [3](./Set%20di%20schede%20numero%201/00046.pdf) | [4](./Set%20di%20schede%20numero%201/00064.pdf) | [5](./Set%20di%20schede%20numero%201/00106.pdf) | [6](./Set%20di%20schede%20numero%201/00109.pdf) | [7](./Set%20di%20schede%20numero%201/00149.pdf) |  [8](./Set%20di%20schede%20numero%201/00197.pdf) | [9](./Set%20di%20schede%20numero%201/00234.pdf) | [10](./Set%20di%20schede%20numero%201/00280.pdf) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <h2> Set di schede numero 2 (Intervalli & Funzioni) </h2>
 
-| [1](./Set%20di%20schede%20numero%202/00005.pdf) | [2](./Set%20di%20schede%20numero%202/00128.pdf) | [3](./Set%20di%20schede%20numero%202/00280.pdf)
+| [1](./Set%20di%20schede%20numero%202/00005.pdf) | [2](./Set%20di%20schede%20numero%202/00128.pdf) | [3](./Set%20di%20schede%20numero%202/00280.pdf) |
 | :---: | :---: | :---: |
 
 <h2> Set di schede numero 3 (Successioni & Limiti) </h2>
 
-| [1](/Set%20di%20schede%20numero%203/00005.pdf) | [2](./Set%20di%20schede%20numero%203/00131.pdf) | [3](./Set%20di%20schede%20numero%203/00290.pdf)
+| [1](/Set%20di%20schede%20numero%203/00005.pdf) | [2](./Set%20di%20schede%20numero%203/00131.pdf) | [3](./Set%20di%20schede%20numero%203/00290.pdf) |
 | :---: | :---: | :---: |
 
 <h2> Set di schede numero 4 (Limiti Notevoli) </h2>
@@ -28,12 +28,17 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 
 <h2> Set schede di Pre-Esonero numero 1 </h2>
 
-| [1](./Set%20schede%20di%20Pre-Esonero%20numero%201/00034.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%201/00052.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%201/00098.pdf) | [4](./Set%20schede%20di%20Pre-Esonero%20numero%201/00123.pdf) | [5](./Set%20schede%20di%20Pre-Esonero%20numero%201/00138.pdf) | [6](./Set%20schede%20di%20Pre-Esonero%20numero%201/00146.pdf) | [7](./Set%20schede%20di%20Pre-Esonero%20numero%201/00182.pdf) | [8](./Set%20schede%20di%20Pre-Esonero%20numero%201/00225.pdf) | [9](./Set%20schede%20di%20Pre-Esonero%20numero%201/00234.pdf)
+| [1](./Set%20schede%20di%20Pre-Esonero%20numero%201/00034.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%201/00052.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%201/00098.pdf) | [4](./Set%20schede%20di%20Pre-Esonero%20numero%201/00123.pdf) | [5](./Set%20schede%20di%20Pre-Esonero%20numero%201/00138.pdf) | [6](./Set%20schede%20di%20Pre-Esonero%20numero%201/00146.pdf) | [7](./Set%20schede%20di%20Pre-Esonero%20numero%201/00182.pdf) | [8](./Set%20schede%20di%20Pre-Esonero%20numero%201/00225.pdf) | [9](./Set%20schede%20di%20Pre-Esonero%20numero%201/00234.pdf) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <h2> Set di schede numero 5 (Limiti & Funzioni) </h2>
 
-| [1](./Set%20di%20schede%20numero%205/00009.pdf) | [2](./Set%20di%20schede%20numero%205/00138.pdf)
+| [1](./Set%20di%20schede%20numero%205/00009.pdf) | [2](./Set%20di%20schede%20numero%205/00138.pdf) |
+| :---: | :---: |
+
+<h2> Set di schede numero 6 (Funzioni & Derivate) </h2>
+
+| [1](./Set%20di%20schede%20numero%206/00009.pdf) | [2](./Set%20di%20schede%20numero%206/00140.pdf) |
 | :---: | :---: |
 
 </div>
