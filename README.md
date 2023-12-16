@@ -33,8 +33,8 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 
 <h2> Set di schede numero 5 (Limiti & Funzioni) </h2>
 
-| [1](./Set%20di%20schede%20numero%205/00009.pdf) | [2](./Set%20di%20schede%20numero%205/00138.pdf) |
-| :---: | :---: |
+| [1](./Set%20di%20schede%20numero%205/00009.pdf) | [2](./Set%20di%20schede%20numero%205/00016.pdf) | [3](./Set%20di%20schede%20numero%205/00017.pdf) | [4](./Set%20di%20schede%20numero%205/00138.pdf) |
+| :---: | :---: | :---: | :---: |
 
 <h2> Set di schede numero 6 (Funzioni & Derivate) </h2>
 
