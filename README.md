@@ -41,4 +41,9 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 | [1](./Set%20di%20schede%20numero%206/00009.pdf) | [2](./Set%20di%20schede%20numero%206/00140.pdf) |
 | :---: | :---: |
 
+<h2> Set di schede numero 7 (Notazione Asintotica & Taylor) </h2>
+
+| [1](./Set%20di%20schede%20numero%207/00009.pdf) | [2](./Set%20di%20schede%20numero%207/00017.pdf) |
+| :---: | :---: |
+
 </div>
