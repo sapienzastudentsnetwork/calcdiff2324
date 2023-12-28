@@ -51,4 +51,9 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 | [1](./Set%20di%20schede%20numero%208/00009.pdf) |
 | :---: |
 
+<h2> Set schede di Pre-Esonero numero 2 </h2>
+
+| [1](./Set%20schede%20di%20Pre-Esonero%20numero%202/00094.pdf) |
+| :---: |
+
 </div>
