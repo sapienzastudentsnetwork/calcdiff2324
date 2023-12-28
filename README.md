@@ -46,4 +46,9 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 | [1](./Set%20di%20schede%20numero%207/00009.pdf) | [2](./Set%20di%20schede%20numero%207/00017.pdf) |
 | :---: | :---: |
 
+<h2> Set di schede numero 8 (Funzioni, Taylor & Derivate) </h2>
+
+| [1](./Set%20di%20schede%20numero%208/00009.pdf) |
+| :---: |
+
 </div>
