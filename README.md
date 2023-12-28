@@ -53,7 +53,7 @@ Per chi volesse contribuire può inviare le proprie schede all'indirizzo [FeddyL
 
 <h2> Set schede di Pre-Esonero numero 2 </h2>
 
-| [1](./Set%20schede%20di%20Pre-Esonero%20numero%202/00094.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%202/00168.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%202/00174.pdf) |
-| :---: | :---: | :---: |
+| [1](./Set%20schede%20di%20Pre-Esonero%20numero%202/00094.pdf) | [2](./Set%20schede%20di%20Pre-Esonero%20numero%202/00116.pdf) | [3](./Set%20schede%20di%20Pre-Esonero%20numero%202/00141.pdf) | [4](./Set%20schede%20di%20Pre-Esonero%20numero%202/00143.pdf) | [5](./Set%20schede%20di%20Pre-Esonero%20numero%202/00168.pdf) | [6](./Set%20schede%20di%20Pre-Esonero%20numero%202/00174.pdf) | [7](./Set%20schede%20di%20Pre-Esonero%20numero%202/00194.pdf) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
